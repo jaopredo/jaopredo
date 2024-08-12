@@ -1,4 +1,6 @@
 # Olá, Mundo
+Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me graduando em Ciência de Dados!
+
 ## Minhas Experiência
 - React
 - PHP
