@@ -10,8 +10,6 @@ Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me gradua
 - Express
 - SQL
 - MongoDB
-- LUA (Love2D)
-- Gamemaker
 
 ## O que estou estudando
 - React Native (Tenho experiência, mas estou fazendo projetos reais)
@@ -35,8 +33,6 @@ My name is João Pedro, I'm a FGV's student - Rio de Janeiro. I'm graduating in 
 - Express
 - SQL
 - MongoDB
-- LUA (Love2D)
-- Gamemaker
 
 ## What am I studying?
 - React Native (I have experience, but only in small projects, now I am making a big project with it)
