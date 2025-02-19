@@ -22,7 +22,6 @@ Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me gradua
 
 (English)
 # Hello, World!
-Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me graduando em Ciência de Dados e Inteligência Artificial!
 My name is João Pedro, I'm a FGV's student - Rio de Janeiro. I'm graduating in Data Science and Artificial Inteligence!
 
 ## My Experiences
