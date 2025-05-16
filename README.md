@@ -2,7 +2,7 @@
 # Olá, Mundo
 Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me graduando em Ciência de Dados!
 
-## Minhas Experiência
+## Minhas Experiências
 - React
 - PHP
 - VueJS
@@ -11,7 +11,7 @@ Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me gradua
 - SQL
 - MongoDB
 
-## O que estou estudando
+## O que estou estudando?
 - React Native (Tenho experiência, mas estou fazendo projetos reais)
 
 ## Projetos que estou mais ativo atualmente
