@@ -15,8 +15,8 @@ Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me gradua
 - React Native (Tenho experiência, mas estou fazendo projetos reais)
 
 ## Projetos que estou mais ativo atualmente
-**React Formtools**
-- Biblioteca de React, útil para fazer formulários de maneira mais fácil e rápida, utiliza algumas bibliotecas como [React Hook Form](https://react-hook-form.com) e melhora o uso da biblioteca!
+**Holy Emapian Scripture**
+- Repositório colaborativo com resumos e anotações sobre as matérias da minha faculdade
 **EasyInv Services**
 - O código fonte do projeto da minha empresa (Projetos privados)
 
@@ -37,7 +37,9 @@ My name is João Pedro, I'm a FGV's student - Rio de Janeiro. I'm graduating in 
 - React Native (I have experience, but only in small projects, now I am making a big project with it)
 
 ## Most active projects
-**React Formtools**
-- A React Library, useful to make forms easy and quicker. It uses [React Hook Form](https://react-hook-form.com) as a dependance and it boosts the library (Documentation not updated, the project is in pause)
+**Holy Emapian Scripture**
+- A colaborattive repository containing annotations and resumes about the classes of my college
+**EasyInv Services**
+- My startup's font-code (Private projects)
 **EasyInv Services**
 - Source code for the solutions of my company (I am trying to create), and it is private
