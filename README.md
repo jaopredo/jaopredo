@@ -1,33 +1,7 @@
-(Portuguese)
-# Olá, Mundo
-Meu nome é João Pedro, eu sou aluno da FGV - Rio de Janeiro, e estou me graduando em Ciência de Dados!
+# Oi Mundo! My name is João Pedro! 🤓
+AI Product Engineer at [neofuturo](https://www.neofuturo.ai/)
 
-## Minhas Experiências
-- React
-- PHP
-- VueJS
-- HTML e CSS
-- Express
-- SQL
-- MongoDB
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joao.pedro.dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-jerônimo-300469263)
 
-## Projetos que estou mais ativo atualmente
-**Holy Emapian Scripture**
-- Repositório colaborativo com resumos e anotações sobre as matérias da minha faculdade
 
-(English)
-# Hello, World!
-My name is João Pedro, I'm a FGV's student - Rio de Janeiro. I'm graduating in Data Science and Artificial Inteligence!
-
-## My Experiences
-- React
-- PHP
-- VueJS
-- HTML e CSS
-- Express
-- SQL
-- MongoDB
-
-## Most active projects
-**Holy Emapian Scripture**
-- A colaborattive repository containing annotations and resumes about the classes of my college
